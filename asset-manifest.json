@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.c917fa26.js",
-    "static/js/787.6f567017.chunk.js": "/static/js/787.6f567017.chunk.js",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.c917fa26.js.map": "/static/js/main.c917fa26.js.map",
-    "787.6f567017.chunk.js.map": "/static/js/787.6f567017.chunk.js.map"
+    "main.css": "/VolterLV/Dlreact.git/static/css/main.073c9b0a.css",
+    "main.js": "/VolterLV/Dlreact.git/static/js/main.12c176b7.js",
+    "static/js/787.6f567017.chunk.js": "/VolterLV/Dlreact.git/static/js/787.6f567017.chunk.js",
+    "index.html": "/VolterLV/Dlreact.git/index.html",
+    "main.073c9b0a.css.map": "/VolterLV/Dlreact.git/static/css/main.073c9b0a.css.map",
+    "main.12c176b7.js.map": "/VolterLV/Dlreact.git/static/js/main.12c176b7.js.map",
+    "787.6f567017.chunk.js.map": "/VolterLV/Dlreact.git/static/js/787.6f567017.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.c917fa26.js"
+    "static/js/main.12c176b7.js"
   ]
 }
