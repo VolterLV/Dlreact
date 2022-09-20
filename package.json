@@ -25,7 +25,7 @@
 			"react-app/jest"
 		]
 	},
-	"homepage": "https://github.com/VolterLV/Dlreact.git",
+	"homepage": "https://volterlv.github.io/dlreact",
 	"browserslist": {
 		"production": [
 			">0.2%",
